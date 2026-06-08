@@ -185,5 +185,6 @@ gunicorn==21.2.0
 
 ## 👨‍💻 Auteur
 
-**Moussa Diakite** — Génie Informatique, Université Mundiapolis, Casablanca  
-Projet FastPark — 2025/2026
+Elimane Ndao -    CEO + UX (Pitch, présentation, design du dashboard, Trello)
+Moussa Diakité -    CTO + Dev (Code Arduino, connexion capteurs, envoi des données)
+Issoufou Abdoul Mmadjid Adamou -    Lead Dev + QA (Dashboard web, tests, documentation GitHub)
